@@ -9,9 +9,9 @@ class Header extends React.Component {
             <header id="header">
                 <div className="inner">
                     <a href="#" className="image avatar"><img src={avatar} alt="" /></a>
-                    <h1><strong>I am Strata</strong>, a GatsbyJS starter
-                    <br />Crafted by <a href="http://html5up.net">HTML5 UP</a>.
-                    <br />Enhanced by <a href="https://appseed.us">AppSeed</a>.
+                    <h1><strong>Unfolding Dragon</strong>, where simple rules
+                    <br /> yields beautiful patterns.
+                    <br /> A creativity outlet for <a href="https://www.tiago.dev/">tiago.dev</a>.
                     </h1>
                 </div>
                 <Footer />

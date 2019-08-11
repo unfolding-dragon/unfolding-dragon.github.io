@@ -75,8 +75,8 @@ class HomeIndex extends React.Component {
     }
 
     render() {
-        const siteTitle = "Gatsby Starter - Strata"
-        const siteDescription = "Site description"
+        const siteTitle = "Unfolding Dragon"
+        const siteDescription = "Simple Rules can yield Beautiful Patterns"
 
         return (
             <Layout>
