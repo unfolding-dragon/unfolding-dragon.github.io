@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "homepage": "https://unfolding-dragon.github.io/",
+  "name": "unfolding-dragon",
+  "description": "Unfolding Dragon's Website",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Tiago",
   "dependencies": {
     "ftp-deploy": "^2.3.3",
     "gatsby": "^2.2.9",
@@ -21,13 +22,15 @@
   ],
   "license": "MIT",
   "scripts": {
-    "deploy": "node deploy",
+    "deploy-node": "node deploy",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build && gh-pages -b master -d public"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "prettier": "^1.14.2"
   },
   "repository": {
