@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Unfolding Dragon</title>
-    <link>https://www.unfoldingdragon.com/categories/</link>
+    <link>https://unfolding-dragon.github.io/categories/</link>
     <description>Recent content in Categories on Unfolding Dragon</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2021, Unfolding Dragon</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unfoldingdragon.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://unfolding-dragon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://www.unfoldingdragon.com/categories/demo/</link>
+      <link>https://unfolding-dragon.github.io/categories/demo/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.unfoldingdragon.com/categories/demo/</guid>
+      <guid>https://unfolding-dragon.github.io/categories/demo/</guid>
       <description></description>
     </item>
     

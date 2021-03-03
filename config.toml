@@ -1,4 +1,4 @@
-baseurl = "https://www.unfoldingdragon.com/"  # Include trailing slash
+baseurl = "https://unfolding-dragon.github.io/"  # Include trailing slash
 title = "Unfolding Dragon"
 theme = "newsroom"
 author = "Tiago"
