@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unfolding Dragon</title>
+    <link>https://www.unfoldingdragon.com/</link>
+    <description>Recent content on Unfolding Dragon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2021, Unfolding Dragon</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate><atom:link href="https://www.unfoldingdragon.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perspecitve Wand</title>
+      <link>https://www.unfoldingdragon.com/post/perspective-wand/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unfoldingdragon.com/post/perspective-wand/</guid>
+      <description>Experiencing a Superluminal-like game mechanic in VR.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.unfoldingdragon.com/about/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unfoldingdragon.com/about/</guid>
+      <description>Unfolding Dragon, is a reference to the dragon curve] fractal.  It is a simple set of rules that yields beautiful patterns.  see wikipedia entry   Below is an animation of &#34;Unfolding the Dragon&#34;      </description>
+    </item>
+    
+  </channel>
+</rss>
